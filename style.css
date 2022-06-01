@@ -13,22 +13,38 @@ body{
     background-color: black;
 }
 .container .section:nth-child(1){
-    background: url(img/1.jpg);
+    background: url(img/11.jpg);
     background-size: cover;
 }
 .container .section:nth-child(2){
-    background: url(img/2.jpg);
+    background: url(img/22.jpg);
     background-size: cover;
 }
 .container .section:nth-child(3){
-    background: url(img/3.jpg);
+    background: url(img/33.jpg);
     background-size: cover;
 }
 .container .section:nth-child(4){
-    background: url(img/4.jpg);
+    background: url(img/44.jpg);
     background-size: 100% 100%;
 }
 .container .section:nth-child(5){
-    background: url(img/5.jpg);
+    background: url(img/55.jpg);
+    background-size: cover;
+}
+.container .section:nth-child(6){
+    background: url(img/66.jpg);
+    background-size: cover;
+}
+.container .section:nth-child(7){
+    background: url(img/77.jpg);
+    background-size: cover;
+}
+.container .section:nth-child(8){
+    background: url(img/88.jpg);
+    background-size: cover;
+}
+.container .section:nth-child(9){
+    background: url(img/99.jpg);
     background-size: cover;
 }
